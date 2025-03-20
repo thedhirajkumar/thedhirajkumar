@@ -10,6 +10,7 @@
 ## 🚀 Tech Stack  
 
 💡 **Languages:** Solidity, JavaScript, C++, Python, Java
+
 💡 **Blockchain Tools:** Hardhat, Ethers.js, Web3.js, Metamask  
 💡 **Frontend:** React.js, Tailwind CSS  
 💡 **Backend & Database:** Node.js, MongoDB, MySQL  
