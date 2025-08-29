@@ -1,5 +1,5 @@
 
-<h3 align="center"> Hi there! I'm Dhiraj Kumar, a final-year Computer Science student at NIT Silchar, passionate about Blockchain, Web3, and Full-Stack Development. I enjoy building decentralized applications (DApps) and leveraging modern technologies to solve real-world problems.</h3>
+<h3 align="center"> Hi there! I'm Dhiraj Kumar, a final-year Computer Science student at NIT Silchar, passionate about Blockchain/Web3, AI and Full-Stack Development. I enjoy building decentralized applications (DApps) and leveraging modern technologies to solve real-world problems.</h3>
 
 🔹 **Blockchain Enthusiast** | Smart Contracts, Solidity, Hardhat  
 🔹 **Full-Stack Developer** | MERN Stack (MongoDB, Express, React, Node.js)  
